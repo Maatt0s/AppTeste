@@ -13,6 +13,5 @@ namespace MauiApp1.ViewModels
         public String _imagem { get; set; } = String.Empty;
         public String _resultado { get; set; } = String.Empty;
 
-
     }
 }
