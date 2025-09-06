@@ -1,4 +1,4 @@
-namespace MauiApp1.Views;
+namespace AppTeste.Views;
 
 public partial class CoinView : ContentPage
 {
